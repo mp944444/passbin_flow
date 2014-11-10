@@ -8,3 +8,4 @@ Readme.txt
 Upgrading.txt
 bin/
 composer.lock
+Configuration/Development/Settings.yaml
