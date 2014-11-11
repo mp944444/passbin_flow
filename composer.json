@@ -10,7 +10,9 @@
         "typo3/flow": "2.2.*",
         "typo3/welcome": "2.2.*",
         "doctrine/migrations": "@dev",
-        "passbin/base": "dev-master"
+        "passbin/base": "dev-master",
+        "typo3/twitter-bootstrap": "dev-master",
+        "typo3/swiftmailer": "dev-master"
     },
     "require-dev": {
         "typo3/kickstart": "2.2.*",
