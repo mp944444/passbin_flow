@@ -14,11 +14,11 @@
 # informative welcome screen.
 
 -
-  name: 'Welcome'
-  uriPattern: '<WelcomeSubroutes>'
+  name: 'Passbin'
+  uriPattern: '<PassbinSubroutes>'
   subRoutes:
-    WelcomeSubroutes:
-      package: TYPO3.Welcome
+    PassbinSubroutes:
+      package: Passbin.Base
 
 ##
 # Flow subroutes
