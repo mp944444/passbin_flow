@@ -15,3 +15,4 @@ TYPO3:
         dbname: 'flow'       # adjust to your database name
         user: ''             # adjust to your database user
         password: ''         # adjust to your database password
+        host: 'localhost'    # adjust to your database hostname
